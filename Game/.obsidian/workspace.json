@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "dc4302c05580dd07",
+    "type": "split",
+    "children": [
+      {
+        "id": "701813dce4eccf5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05051434f455f50e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28828efbadd117ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfffc2ff78b437a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c39c74a4a6c4b63c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a59ab20e83701ecb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef0b2d0835066ce8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc8bc1a3df19757c",
+    "type": "split",
+    "children": [
+      {
+        "id": "695e7ae3b935494b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "039f69cca953734b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1206a8497463284c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "90adcf7bd5306063",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6fd0afa317c212cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "69f0624e7c0464ed",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "05051434f455f50e",
+  "lastOpenFiles": [
+    "05 - Academia/01 - Mathematics/01 - Differential Eq",
+    "05 - Academia/01 - Mathematics",
+    "05 - Academia/00 - Syllabus",
+    "05 - Academia/Untitled.md",
+    "01 - Q1/Q1 Prep.md",
+    "05 - Academia",
+    "01 - Q1/Before 2025.md",
+    "00 - Archive/Game Theory.md",
+    "02 - Q2/Q2 Prep.md",
+    "02 - Q2",
+    "01 - Q1",
+    "00 - Archive/Psych Laws.md",
+    "00 - Archive",
+    "Game",
+    "pendingSync-gdrive-plugin",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}

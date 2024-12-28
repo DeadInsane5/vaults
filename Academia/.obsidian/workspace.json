@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "76f98bbf63e4eb66",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d9b2943b5ddb888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca04be5f45ff40cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Mathematics/01 - Differential Equations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Differential Equations"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ac1788ec86274978",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e51c7418fbc6a3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Syllabus/Mathematics Syllabus.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mathematics Syllabus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a964c40e47f06a01",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cbaa3765064c666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98cdd208ed4ac471",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2c7998c672b90716",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "19639f0724a89084",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "28b82c4e9b2444c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "902b0afb51f10e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ccbccf952129e50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Mathematics/01 - Differential Equations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01 - Differential Equations"
+            }
+          },
+          {
+            "id": "ba567eb7fbfe9746",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Mathematics/01 - Differential Equations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01 - Differential Equations"
+            }
+          },
+          {
+            "id": "051024e4154bf81a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "714f2a26ad6fe366",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Mathematics/01 - Differential Equations.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01 - Differential Equations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ca04be5f45ff40cc",
+  "lastOpenFiles": [
+    "00 - Syllabus/Mathematics Syllabus.md",
+    "01 - Mathematics/01 - Differential Equations.md",
+    "99 - Attachments/Pasted image 20241228160630.png",
+    "Untitled",
+    "99 - Attachments",
+    "Untitled.md",
+    "01 - Mathematics",
+    "00 - Syllabus"
+  ]
+}
