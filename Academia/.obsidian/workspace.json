@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6d9b2943b5ddb888",
+        "id": "afa0e09a971e04da",
         "type": "tabs",
         "children": [
           {
-            "id": "ca04be5f45ff40cc",
+            "id": "df6eafb9173220bb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "98 - Books/Applied Mathematics For Engineering Sem 2 (G V Kumbhojkar) (Z-Library).pdf"
+                "file": "01 - Mathematics/01 - Differential Equations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Applied Mathematics For Engineering Sem 2 (G V Kumbhojkar) (Z-Library)"
+              "icon": "lucide-file",
+              "title": "01 - Differential Equations"
             }
           }
         ]
@@ -75,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "28b82c4e9b2444c2",
@@ -91,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "98 - Books/Applied Mathematics For Engineering Sem 2 (G V Kumbhojkar) (Z-Library).pdf",
+                "file": "01 - Mathematics/01 - Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Applied Mathematics For Engineering Sem 2 (G V Kumbhojkar) (Z-Library)"
+              "title": "Backlinks for 01 - Differential Equations"
             }
           },
           {
@@ -110,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "98 - Books/Applied Mathematics For Engineering Sem 2 (G V Kumbhojkar) (Z-Library).pdf",
+                "file": "01 - Mathematics/01 - Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Applied Mathematics For Engineering Sem 2 (G V Kumbhojkar) (Z-Library)"
+              "title": "Outgoing links from 01 - Differential Equations"
             }
           },
           {
@@ -137,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "98 - Books/Applied Mathematics For Engineering Sem 2 (G V Kumbhojkar) (Z-Library).pdf"
+                "file": "01 - Mathematics/01 - Differential Equations.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Applied Mathematics For Engineering Sem 2 (G V Kumbhojkar) (Z-Library)"
+              "title": "Outline of 01 - Differential Equations"
             }
           }
         ]
@@ -160,10 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca04be5f45ff40cc",
+  "active": "df6eafb9173220bb",
   "lastOpenFiles": [
-    "01 - Mathematics/01 - Differential Equations.md",
+    "99 - Attachments/Pasted image 20241228183118.png",
+    "99 - Attachments/Pasted image 20241228183102.png",
+    "99 - Attachments/Pasted image 20241228183043.png",
+    "99 - Attachments/Pasted image 20241228182950.png",
+    "99 - Attachments/Pasted image 20241228182759.png",
+    "99 - Attachments/Pasted image 20241228182651.png",
     "98 - Books/Applied Mathematics For Engineering Sem 2 (G V Kumbhojkar) (Z-Library).pdf",
+    "01 - Mathematics/01 - Differential Equations.md",
     "98 - Books",
     "00 - Syllabus/Mathematics Syllabus.md",
     "99 - Attachments/Pasted image 20241228160630.png",
