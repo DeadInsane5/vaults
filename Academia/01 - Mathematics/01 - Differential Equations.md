@@ -12,7 +12,7 @@
  8. Bernoulli's Eqns
 
 ### 1) Types of Diffn Eqns
-1. Review Only
+1. Review Only (12th)
 	1. Variables separable
 	2. Homogeneous
 	3. Non-homogeneous 
