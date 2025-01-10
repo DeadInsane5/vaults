@@ -13,13 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Mathematics/01 - Differential Equations.md",
-                "mode": "source",
+                "file": "05 - Python/Basic Syntax and Data Types.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Differential Equations"
+              "title": "Basic Syntax and Data Types"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b41c18e40e95817a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3943afc3be62d003",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "98 - Books/First-Year-Engineering-All-Branches-Scheme-Syllabus-Sem-I and Sem-II-Final-1-July-2024-25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "First-Year-Engineering-All-Branches-Scheme-Syllabus-Sem-I and Sem-II-Final-1-July-2024-25"
             }
           }
         ]
@@ -163,28 +181,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98cdd208ed4ac471",
+  "active": "df6eafb9173220bb",
   "lastOpenFiles": [
+    "05 - Python/Control Flow and Functions.md",
+    "05 - Python/Data Structures.md",
+    "99 - Attachments/Pasted image 20250110193218.png",
+    "05 - Python/Basic Syntax and Data Types.md",
+    "99 - Attachments/Pasted image 20250110193015.png",
+    "99 - Attachments/Pasted image 20250110192945.png",
+    "99 - Attachments/Pasted image 20250110192850.png",
+    "99 - Attachments/Pasted image 20250110192825.png",
+    "99 - Attachments/Pasted image 20250110192633.png",
+    "99 - Attachments/Pasted image 20250110192620.png",
+    "99 - Attachments/Pasted image 20250110192535.png",
+    "99 - Attachments/Pasted image 20250110192453.png",
+    "99 - Attachments/Pasted image 20250110192428.png",
+    "98 - Books/First-Year-Engineering-All-Branches-Scheme-Syllabus-Sem-I and Sem-II-Final-1-July-2024-25.pdf",
+    "05 - Python",
+    "01 - Mathematics/01 - Differential Equations.md",
     "98 - Books/04 - Data Structures/The Algorithm Design Manual (Steven S Skiena) (Z-Library).pdf",
     "98 - Books/04 - Data Structures/Algorithms in C, Parts 1-4 Fundamentals, Data Structures, Sorting Searching (Robert Sedgewick) (Z-Library).pdf",
     "98 - Books/04 - Data Structures/Data Structures Using C C++ ( etc.) (Z-Library)_compressed.pdf",
     "98 - Books/04 - Data Structures",
     "98 - Books/01 - Mathematics/Applied Mathematics For Engineering Sem 2 (G V Kumbhojkar) (Z-Library).pdf",
     "98 - Books/01 - Mathematics",
-    "99 - Attachments/Pasted image 20241228183118.png",
-    "99 - Attachments/Pasted image 20241228183102.png",
-    "99 - Attachments/Pasted image 20241228183043.png",
-    "99 - Attachments/Pasted image 20241228182950.png",
-    "99 - Attachments/Pasted image 20241228182759.png",
-    "99 - Attachments/Pasted image 20241228182651.png",
     "98 - Books/Applied Mathematics For Engineering Sem 2 (G V Kumbhojkar) (Z-Library).pdf",
-    "01 - Mathematics/01 - Differential Equations.md",
     "98 - Books",
     "00 - Syllabus/Mathematics Syllabus.md",
-    "99 - Attachments/Pasted image 20241228160630.png",
-    "99 - Attachments",
-    "Untitled.md",
-    "01 - Mathematics",
-    "00 - Syllabus"
+    "Untitled.md"
   ]
 }
