@@ -20,6 +20,8 @@
 	1. Exact diffn eqns
 	2. Linear diffn eqns
 	3. Bernoulli's diffn eqns
+3. Crash Course
+![[Pasted image 20250110203117.png]]
 
 ### 1. Review Only
 ###### 1. Variable separable 
